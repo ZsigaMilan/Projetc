@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 
 namespace githubproject
 {
@@ -7,6 +8,10 @@ namespace githubproject
         static void Main(string[] args)
         {
             Console.WriteLine();
+            (StreamReader sr = new StreamReader("auto.csv"))
+            {
+            }
         }
+
     }
 }

@@ -14,14 +14,6 @@ namespace githubproject
         private string uzemanyagtipus;
         private int ar;
 
-   (StreamReader sr = new StreamReader("auto.csv"))
-    {
-
-
-    }
-    
-   
         
     }
-
 {
